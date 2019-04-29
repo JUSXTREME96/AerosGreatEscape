@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 39dd9cd1a0c1e4e44a811f3201958af2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head_J
+    100004: HeadTip_J
+    100006: Hip_J
+    100008: joint1
+    100010: joint2
+    100012: L_Ankle_J
+    100014: L_Ankle_J 1
+    100016: L_Elbow_J
+    100018: L_Elbow_J 1
+    100020: L_Feet_J
+    100022: L_Feet_J 1
+    100024: L_Fingers_J
+    100026: L_Fingers_J 1
+    100028: L_Knee_J
+    100030: L_Knee_J 1
+    100032: L_LegTop_J
+    100034: L_LegTop_J1
+    100036: L_Shoulder_J
+    100038: L_Shoulder_J 1
+    100040: L_ToeTip_J
+    100042: L_ToeTip_J 1
+    100044: L_Wrist_J
+    100046: L_Wrist_J 1
+    100048: pCube1
+    100050: pCube10
+    100052: pCube11
+    100054: pCube12
+    100056: pCube13
+    100058: pCube14
+    100060: pCube15
+    100062: pCube2
+    100064: pCube4
+    100066: pCube5
+    100068: pCube6
+    100070: pCube7
+    100072: pCube8
+    100074: pCube9
+    100076: pCylinder1
+    100078: pPyramid1
+    100080: pSphere1
+    100082: pSphere2
+    100084: pSphere3
+    100086: pSphere4
+    100088: pSphere5
+    100090: pSphere6
+    100092: pSphere7
+    100094: pSphere8
+    100096: pSphere9
+    100098: Spine01_J
+    100100: Spine02_J
+    100102: transform1
+    100104: transform10
+    100106: transform11
+    100108: transform12
+    100110: transform13
+    100112: transform14
+    100114: transform15
+    100116: transform16
+    100118: transform17
+    100120: transform18
+    100122: transform19
+    100124: transform2
+    100126: transform20
+    100128: transform21
+    100130: transform22
+    100132: transform23
+    100134: transform24
+    100136: transform3
+    100138: transform4
+    100140: transform5
+    100142: transform6
+    100144: transform7
+    100146: transform8
+    100148: transform9
+    400000: //RootNode
+    400002: Head_J
+    400004: HeadTip_J
+    400006: Hip_J
+    400008: joint1
+    400010: joint2
+    400012: L_Ankle_J
+    400014: L_Ankle_J 1
+    400016: L_Elbow_J
+    400018: L_Elbow_J 1
+    400020: L_Feet_J
+    400022: L_Feet_J 1
+    400024: L_Fingers_J
+    400026: L_Fingers_J 1
+    400028: L_Knee_J
+    400030: L_Knee_J 1
+    400032: L_LegTop_J
+    400034: L_LegTop_J1
+    400036: L_Shoulder_J
+    400038: L_Shoulder_J 1
+    400040: L_ToeTip_J
+    400042: L_ToeTip_J 1
+    400044: L_Wrist_J
+    400046: L_Wrist_J 1
+    400048: pCube1
+    400050: pCube10
+    400052: pCube11
+    400054: pCube12
+    400056: pCube13
+    400058: pCube14
+    400060: pCube15
+    400062: pCube2
+    400064: pCube4
+    400066: pCube5
+    400068: pCube6
+    400070: pCube7
+    400072: pCube8
+    400074: pCube9
+    400076: pCylinder1
+    400078: pPyramid1
+    400080: pSphere1
+    400082: pSphere2
+    400084: pSphere3
+    400086: pSphere4
+    400088: pSphere5
+    400090: pSphere6
+    400092: pSphere7
+    400094: pSphere8
+    400096: pSphere9
+    400098: Spine01_J
+    400100: Spine02_J
+    400102: transform1
+    400104: transform10
+    400106: transform11
+    400108: transform12
+    400110: transform13
+    400112: transform14
+    400114: transform15
+    400116: transform16
+    400118: transform17
+    400120: transform18
+    400122: transform19
+    400124: transform2
+    400126: transform20
+    400128: transform21
+    400130: transform22
+    400132: transform23
+    400134: transform24
+    400136: transform3
+    400138: transform4
+    400140: transform5
+    400142: transform6
+    400144: transform7
+    400146: transform8
+    400148: transform9
+    2100000: lambert29
+    2100002: lambert27
+    2100004: lambert35
+    2100006: lambert12
+    2100008: lambert13
+    2100010: lambert23
+    2100012: lambert22
+    2100014: lambert33
+    2100016: lambert28
+    2100018: lambert25
+    2100020: lambert26
+    2100022: lambert16
+    2100024: lambert17
+    2100026: lambert18
+    2100028: lambert10
+    2100030: lambert6
+    2100032: lambert32
+    2100034: lambert30
+    2100036: lambert3
+    2100038: lambert5
+    2100040: lambert11
+    2100042: lambert21
+    2100044: lambert19
+    2100046: lambert34
+    2100048: lambert20
+    4300000: pCube15
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube15
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

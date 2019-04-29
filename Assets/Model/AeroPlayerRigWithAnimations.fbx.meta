@@ -1,0 +1,1826 @@
+fileFormatVersion: 2
+guid: 256bec88c65b96b4393ea3ee3f48e358
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aero_animation_climbing:pCone1
+    100002: Aero_animation_climbing:pCube1
+    100004: Aero_animation_climbing:pCube2
+    100006: Aero_animation_climbing:pCylinder1
+    100008: Aero_animation_climbing:pCylinder2
+    100010: Aero_animation_climbing:pCylinder3
+    100012: Aero_animation_climbing:pSphere1
+    100014: Aero_animation_climbing:pSphere2
+    100016: Aero_animation_climbing:pSphere3
+    100018: Aero_animation_climbing:pSphere4
+    100020: Aero_animation_climbing:pSphere5
+    100022: Aero_animation_climbing:pSphere6
+    100024: Aero_animation_climbing:pSphere7
+    100026: Aero_animation_climbing:transform1
+    100028: Aero_animation_climbing:transform10
+    100030: Aero_animation_climbing:transform11
+    100032: Aero_animation_climbing:transform12
+    100034: Aero_animation_climbing:transform13
+    100036: Aero_animation_climbing:transform2
+    100038: Aero_animation_climbing:transform3
+    100040: Aero_animation_climbing:transform4
+    100042: Aero_animation_climbing:transform5
+    100044: Aero_animation_climbing:transform6
+    100046: Aero_animation_climbing:transform7
+    100048: Aero_animation_climbing:transform8
+    100050: Aero_animation_climbing:transform9
+    100052: Aero_animation_gliding:pCone1
+    100054: Aero_animation_gliding:pCube1
+    100056: Aero_animation_gliding:pCube2
+    100058: Aero_animation_gliding:pCylinder1
+    100060: Aero_animation_gliding:pCylinder2
+    100062: Aero_animation_gliding:pCylinder3
+    100064: Aero_animation_gliding:pSphere1
+    100066: Aero_animation_gliding:pSphere2
+    100068: Aero_animation_gliding:pSphere3
+    100070: Aero_animation_gliding:pSphere4
+    100072: Aero_animation_gliding:pSphere5
+    100074: Aero_animation_gliding:pSphere6
+    100076: Aero_animation_gliding:pSphere7
+    100078: Aero_animation_gliding:transform1
+    100080: Aero_animation_gliding:transform10
+    100082: Aero_animation_gliding:transform11
+    100084: Aero_animation_gliding:transform12
+    100086: Aero_animation_gliding:transform13
+    100088: Aero_animation_gliding:transform2
+    100090: Aero_animation_gliding:transform3
+    100092: Aero_animation_gliding:transform4
+    100094: Aero_animation_gliding:transform5
+    100096: Aero_animation_gliding:transform6
+    100098: Aero_animation_gliding:transform7
+    100100: Aero_animation_gliding:transform8
+    100102: Aero_animation_gliding:transform9
+    100104: Aero_animation_idle1:pCone1
+    100106: Aero_animation_idle1:pCube1
+    100108: Aero_animation_idle1:pCube2
+    100110: Aero_animation_idle1:pCylinder1
+    100112: Aero_animation_idle1:pCylinder2
+    100114: Aero_animation_idle1:pCylinder3
+    100116: Aero_animation_idle1:pSphere1
+    100118: Aero_animation_idle1:pSphere2
+    100120: Aero_animation_idle1:pSphere3
+    100122: Aero_animation_idle1:pSphere4
+    100124: Aero_animation_idle1:pSphere5
+    100126: Aero_animation_idle1:pSphere6
+    100128: Aero_animation_idle1:pSphere7
+    100130: Aero_animation_idle1:transform1
+    100132: Aero_animation_idle1:transform10
+    100134: Aero_animation_idle1:transform11
+    100136: Aero_animation_idle1:transform12
+    100138: Aero_animation_idle1:transform13
+    100140: Aero_animation_idle1:transform2
+    100142: Aero_animation_idle1:transform3
+    100144: Aero_animation_idle1:transform4
+    100146: Aero_animation_idle1:transform5
+    100148: Aero_animation_idle1:transform6
+    100150: Aero_animation_idle1:transform7
+    100152: Aero_animation_idle1:transform8
+    100154: Aero_animation_idle1:transform9
+    100156: Aero_animation_idle:pCone1
+    100158: Aero_animation_idle:pCube1
+    100160: Aero_animation_idle:pCube2
+    100162: Aero_animation_idle:pCylinder1
+    100164: Aero_animation_idle:pCylinder2
+    100166: Aero_animation_idle:pCylinder3
+    100168: Aero_animation_idle:pSphere1
+    100170: Aero_animation_idle:pSphere2
+    100172: Aero_animation_idle:pSphere3
+    100174: Aero_animation_idle:pSphere4
+    100176: Aero_animation_idle:pSphere5
+    100178: Aero_animation_idle:pSphere6
+    100180: Aero_animation_idle:pSphere7
+    100182: Aero_animation_idle:transform1
+    100184: Aero_animation_idle:transform10
+    100186: Aero_animation_idle:transform11
+    100188: Aero_animation_idle:transform12
+    100190: Aero_animation_idle:transform13
+    100192: Aero_animation_idle:transform2
+    100194: Aero_animation_idle:transform3
+    100196: Aero_animation_idle:transform4
+    100198: Aero_animation_idle:transform5
+    100200: Aero_animation_idle:transform6
+    100202: Aero_animation_idle:transform7
+    100204: Aero_animation_idle:transform8
+    100206: Aero_animation_idle:transform9
+    100208: Aero_animation_jumping:pCone1
+    100210: Aero_animation_jumping:pCube1
+    100212: Aero_animation_jumping:pCube2
+    100214: Aero_animation_jumping:pCylinder1
+    100216: Aero_animation_jumping:pCylinder2
+    100218: Aero_animation_jumping:pCylinder3
+    100220: Aero_animation_jumping:pSphere1
+    100222: Aero_animation_jumping:pSphere2
+    100224: Aero_animation_jumping:pSphere3
+    100226: Aero_animation_jumping:pSphere4
+    100228: Aero_animation_jumping:pSphere5
+    100230: Aero_animation_jumping:pSphere6
+    100232: Aero_animation_jumping:pSphere7
+    100234: Aero_animation_jumping:transform1
+    100236: Aero_animation_jumping:transform10
+    100238: Aero_animation_jumping:transform11
+    100240: Aero_animation_jumping:transform12
+    100242: Aero_animation_jumping:transform13
+    100244: Aero_animation_jumping:transform2
+    100246: Aero_animation_jumping:transform3
+    100248: Aero_animation_jumping:transform4
+    100250: Aero_animation_jumping:transform5
+    100252: Aero_animation_jumping:transform6
+    100254: Aero_animation_jumping:transform7
+    100256: Aero_animation_jumping:transform8
+    100258: Aero_animation_jumping:transform9
+    100260: Aero_animation_running:pCone1
+    100262: Aero_animation_running:pCube1
+    100264: Aero_animation_running:pCube2
+    100266: Aero_animation_running:pCylinder1
+    100268: Aero_animation_running:pCylinder2
+    100270: Aero_animation_running:pCylinder3
+    100272: Aero_animation_running:pSphere1
+    100274: Aero_animation_running:pSphere2
+    100276: Aero_animation_running:pSphere3
+    100278: Aero_animation_running:pSphere4
+    100280: Aero_animation_running:pSphere5
+    100282: Aero_animation_running:pSphere6
+    100284: Aero_animation_running:pSphere7
+    100286: Aero_animation_running:transform1
+    100288: Aero_animation_running:transform10
+    100290: Aero_animation_running:transform11
+    100292: Aero_animation_running:transform12
+    100294: Aero_animation_running:transform13
+    100296: Aero_animation_running:transform2
+    100298: Aero_animation_running:transform3
+    100300: Aero_animation_running:transform4
+    100302: Aero_animation_running:transform5
+    100304: Aero_animation_running:transform6
+    100306: Aero_animation_running:transform7
+    100308: Aero_animation_running:transform8
+    100310: Aero_animation_running:transform9
+    100312: //RootNode
+    100314: joint1
+    100316: joint10
+    100318: joint11
+    100320: joint12
+    100322: joint14
+    100324: joint15
+    100326: joint16
+    100328: joint17
+    100330: joint18
+    100332: joint19
+    100334: joint2
+    100336: joint20
+    100338: joint21
+    100340: joint22
+    100342: joint23
+    100344: joint24
+    100346: joint25
+    100348: joint3
+    100350: joint4
+    100352: joint5
+    100354: joint6
+    100356: joint7
+    100358: joint8
+    100360: joint9
+    100362: pCone1
+    100364: pCube1
+    100366: pCube2
+    100368: pCylinder1
+    100370: pCylinder2
+    100372: pCylinder3
+    100374: pSphere1
+    100376: pSphere2
+    100378: pSphere3
+    100380: pSphere4
+    100382: pSphere5
+    100384: pSphere6
+    100386: pSphere7
+    100388: pSphere8
+    100390: rig
+    100392: transform1
+    100394: transform10
+    100396: transform11
+    100398: transform12
+    100400: transform13
+    100402: transform2
+    100404: transform3
+    100406: transform4
+    100408: transform5
+    100410: transform6
+    100412: transform7
+    100414: transform8
+    100416: transform9
+    400000: Aero_animation_climbing:pCone1
+    400002: Aero_animation_climbing:pCube1
+    400004: Aero_animation_climbing:pCube2
+    400006: Aero_animation_climbing:pCylinder1
+    400008: Aero_animation_climbing:pCylinder2
+    400010: Aero_animation_climbing:pCylinder3
+    400012: Aero_animation_climbing:pSphere1
+    400014: Aero_animation_climbing:pSphere2
+    400016: Aero_animation_climbing:pSphere3
+    400018: Aero_animation_climbing:pSphere4
+    400020: Aero_animation_climbing:pSphere5
+    400022: Aero_animation_climbing:pSphere6
+    400024: Aero_animation_climbing:pSphere7
+    400026: Aero_animation_climbing:transform1
+    400028: Aero_animation_climbing:transform10
+    400030: Aero_animation_climbing:transform11
+    400032: Aero_animation_climbing:transform12
+    400034: Aero_animation_climbing:transform13
+    400036: Aero_animation_climbing:transform2
+    400038: Aero_animation_climbing:transform3
+    400040: Aero_animation_climbing:transform4
+    400042: Aero_animation_climbing:transform5
+    400044: Aero_animation_climbing:transform6
+    400046: Aero_animation_climbing:transform7
+    400048: Aero_animation_climbing:transform8
+    400050: Aero_animation_climbing:transform9
+    400052: Aero_animation_gliding:pCone1
+    400054: Aero_animation_gliding:pCube1
+    400056: Aero_animation_gliding:pCube2
+    400058: Aero_animation_gliding:pCylinder1
+    400060: Aero_animation_gliding:pCylinder2
+    400062: Aero_animation_gliding:pCylinder3
+    400064: Aero_animation_gliding:pSphere1
+    400066: Aero_animation_gliding:pSphere2
+    400068: Aero_animation_gliding:pSphere3
+    400070: Aero_animation_gliding:pSphere4
+    400072: Aero_animation_gliding:pSphere5
+    400074: Aero_animation_gliding:pSphere6
+    400076: Aero_animation_gliding:pSphere7
+    400078: Aero_animation_gliding:transform1
+    400080: Aero_animation_gliding:transform10
+    400082: Aero_animation_gliding:transform11
+    400084: Aero_animation_gliding:transform12
+    400086: Aero_animation_gliding:transform13
+    400088: Aero_animation_gliding:transform2
+    400090: Aero_animation_gliding:transform3
+    400092: Aero_animation_gliding:transform4
+    400094: Aero_animation_gliding:transform5
+    400096: Aero_animation_gliding:transform6
+    400098: Aero_animation_gliding:transform7
+    400100: Aero_animation_gliding:transform8
+    400102: Aero_animation_gliding:transform9
+    400104: Aero_animation_idle1:pCone1
+    400106: Aero_animation_idle1:pCube1
+    400108: Aero_animation_idle1:pCube2
+    400110: Aero_animation_idle1:pCylinder1
+    400112: Aero_animation_idle1:pCylinder2
+    400114: Aero_animation_idle1:pCylinder3
+    400116: Aero_animation_idle1:pSphere1
+    400118: Aero_animation_idle1:pSphere2
+    400120: Aero_animation_idle1:pSphere3
+    400122: Aero_animation_idle1:pSphere4
+    400124: Aero_animation_idle1:pSphere5
+    400126: Aero_animation_idle1:pSphere6
+    400128: Aero_animation_idle1:pSphere7
+    400130: Aero_animation_idle1:transform1
+    400132: Aero_animation_idle1:transform10
+    400134: Aero_animation_idle1:transform11
+    400136: Aero_animation_idle1:transform12
+    400138: Aero_animation_idle1:transform13
+    400140: Aero_animation_idle1:transform2
+    400142: Aero_animation_idle1:transform3
+    400144: Aero_animation_idle1:transform4
+    400146: Aero_animation_idle1:transform5
+    400148: Aero_animation_idle1:transform6
+    400150: Aero_animation_idle1:transform7
+    400152: Aero_animation_idle1:transform8
+    400154: Aero_animation_idle1:transform9
+    400156: Aero_animation_idle:pCone1
+    400158: Aero_animation_idle:pCube1
+    400160: Aero_animation_idle:pCube2
+    400162: Aero_animation_idle:pCylinder1
+    400164: Aero_animation_idle:pCylinder2
+    400166: Aero_animation_idle:pCylinder3
+    400168: Aero_animation_idle:pSphere1
+    400170: Aero_animation_idle:pSphere2
+    400172: Aero_animation_idle:pSphere3
+    400174: Aero_animation_idle:pSphere4
+    400176: Aero_animation_idle:pSphere5
+    400178: Aero_animation_idle:pSphere6
+    400180: Aero_animation_idle:pSphere7
+    400182: Aero_animation_idle:transform1
+    400184: Aero_animation_idle:transform10
+    400186: Aero_animation_idle:transform11
+    400188: Aero_animation_idle:transform12
+    400190: Aero_animation_idle:transform13
+    400192: Aero_animation_idle:transform2
+    400194: Aero_animation_idle:transform3
+    400196: Aero_animation_idle:transform4
+    400198: Aero_animation_idle:transform5
+    400200: Aero_animation_idle:transform6
+    400202: Aero_animation_idle:transform7
+    400204: Aero_animation_idle:transform8
+    400206: Aero_animation_idle:transform9
+    400208: Aero_animation_jumping:pCone1
+    400210: Aero_animation_jumping:pCube1
+    400212: Aero_animation_jumping:pCube2
+    400214: Aero_animation_jumping:pCylinder1
+    400216: Aero_animation_jumping:pCylinder2
+    400218: Aero_animation_jumping:pCylinder3
+    400220: Aero_animation_jumping:pSphere1
+    400222: Aero_animation_jumping:pSphere2
+    400224: Aero_animation_jumping:pSphere3
+    400226: Aero_animation_jumping:pSphere4
+    400228: Aero_animation_jumping:pSphere5
+    400230: Aero_animation_jumping:pSphere6
+    400232: Aero_animation_jumping:pSphere7
+    400234: Aero_animation_jumping:transform1
+    400236: Aero_animation_jumping:transform10
+    400238: Aero_animation_jumping:transform11
+    400240: Aero_animation_jumping:transform12
+    400242: Aero_animation_jumping:transform13
+    400244: Aero_animation_jumping:transform2
+    400246: Aero_animation_jumping:transform3
+    400248: Aero_animation_jumping:transform4
+    400250: Aero_animation_jumping:transform5
+    400252: Aero_animation_jumping:transform6
+    400254: Aero_animation_jumping:transform7
+    400256: Aero_animation_jumping:transform8
+    400258: Aero_animation_jumping:transform9
+    400260: Aero_animation_running:pCone1
+    400262: Aero_animation_running:pCube1
+    400264: Aero_animation_running:pCube2
+    400266: Aero_animation_running:pCylinder1
+    400268: Aero_animation_running:pCylinder2
+    400270: Aero_animation_running:pCylinder3
+    400272: Aero_animation_running:pSphere1
+    400274: Aero_animation_running:pSphere2
+    400276: Aero_animation_running:pSphere3
+    400278: Aero_animation_running:pSphere4
+    400280: Aero_animation_running:pSphere5
+    400282: Aero_animation_running:pSphere6
+    400284: Aero_animation_running:pSphere7
+    400286: Aero_animation_running:transform1
+    400288: Aero_animation_running:transform10
+    400290: Aero_animation_running:transform11
+    400292: Aero_animation_running:transform12
+    400294: Aero_animation_running:transform13
+    400296: Aero_animation_running:transform2
+    400298: Aero_animation_running:transform3
+    400300: Aero_animation_running:transform4
+    400302: Aero_animation_running:transform5
+    400304: Aero_animation_running:transform6
+    400306: Aero_animation_running:transform7
+    400308: Aero_animation_running:transform8
+    400310: Aero_animation_running:transform9
+    400312: //RootNode
+    400314: joint1
+    400316: joint10
+    400318: joint11
+    400320: joint12
+    400322: joint14
+    400324: joint15
+    400326: joint16
+    400328: joint17
+    400330: joint18
+    400332: joint19
+    400334: joint2
+    400336: joint20
+    400338: joint21
+    400340: joint22
+    400342: joint23
+    400344: joint24
+    400346: joint25
+    400348: joint3
+    400350: joint4
+    400352: joint5
+    400354: joint6
+    400356: joint7
+    400358: joint8
+    400360: joint9
+    400362: pCone1
+    400364: pCube1
+    400366: pCube2
+    400368: pCylinder1
+    400370: pCylinder2
+    400372: pCylinder3
+    400374: pSphere1
+    400376: pSphere2
+    400378: pSphere3
+    400380: pSphere4
+    400382: pSphere5
+    400384: pSphere6
+    400386: pSphere7
+    400388: pSphere8
+    400390: rig
+    400392: transform1
+    400394: transform10
+    400396: transform11
+    400398: transform12
+    400400: transform13
+    400402: transform2
+    400404: transform3
+    400406: transform4
+    400408: transform5
+    400410: transform6
+    400412: transform7
+    400414: transform8
+    400416: transform9
+    2100000: lambert1
+    4300000: pSphere8
+    7400000: Running 2
+    7400002: Take 001 (1)
+    7400004: Take 001 (2)
+    7400006: Take 001 (3)
+    7400008: Idle 2
+    7400010: gliding2
+    7400012: Jumping
+    9500000: //RootNode
+    13700000: pSphere8
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'joint14' has translation animation that will
+      be discarded.\n\t'joint12' has translation animation that will be discarded.\n\t'joint3'
+      has translation animation that will be discarded.\n\t'joint3' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'joint4' has
+      translation animation that will be discarded.\n\t'joint6' has translation animation
+      that will be discarded.\n\t'joint8' has translation animation that will be discarded.\n\t'joint10'
+      has translation animation that will be discarded.\n\t'joint18' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Running 2
+      takeName: Take 001
+      firstFrame: 299
+      lastFrame: 408
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle 2
+      takeName: Take 001
+      firstFrame: 153
+      lastFrame: 266
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gliding2
+      takeName: Take 001
+      firstFrame: 447
+      lastFrame: 563
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jumping
+      takeName: Take 001
+      firstFrame: 599
+      lastFrame: 719
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: rig
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint14
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint18
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint15
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint19
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint16
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint20
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint12
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint4
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint8
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint5
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint9
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint6
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint10
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint7
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint11
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: AeroPlayerRigWithAnimations(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform1
+      parentName: Aero_animation_climbing:pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform10
+      parentName: Aero_animation_climbing:pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: Aero_animation_climbing:transform12
+      parentName: Aero_animation_climbing:pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: Aero_animation_climbing:transform3
+      parentName: Aero_animation_climbing:pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: Aero_animation_climbing:transform7
+      parentName: Aero_animation_climbing:pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: Aero_animation_climbing:transform9
+      parentName: Aero_animation_climbing:pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform4
+      parentName: Aero_animation_climbing:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: Aero_animation_climbing:transform2
+      parentName: Aero_animation_climbing:pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform6
+      parentName: Aero_animation_climbing:pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform5
+      parentName: Aero_animation_climbing:pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform8
+      parentName: Aero_animation_climbing:pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform11
+      parentName: Aero_animation_climbing:pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_climbing:transform13
+      parentName: Aero_animation_climbing:pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform1
+      parentName: Aero_animation_gliding:pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform10
+      parentName: Aero_animation_gliding:pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: Aero_animation_gliding:transform12
+      parentName: Aero_animation_gliding:pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: Aero_animation_gliding:transform3
+      parentName: Aero_animation_gliding:pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: Aero_animation_gliding:transform7
+      parentName: Aero_animation_gliding:pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: Aero_animation_gliding:transform9
+      parentName: Aero_animation_gliding:pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform4
+      parentName: Aero_animation_gliding:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: Aero_animation_gliding:transform2
+      parentName: Aero_animation_gliding:pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform6
+      parentName: Aero_animation_gliding:pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform5
+      parentName: Aero_animation_gliding:pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform8
+      parentName: Aero_animation_gliding:pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform11
+      parentName: Aero_animation_gliding:pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_gliding:transform13
+      parentName: Aero_animation_gliding:pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform1
+      parentName: Aero_animation_idle1:pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform10
+      parentName: Aero_animation_idle1:pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: Aero_animation_idle1:transform12
+      parentName: Aero_animation_idle1:pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: Aero_animation_idle1:transform3
+      parentName: Aero_animation_idle1:pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: Aero_animation_idle1:transform7
+      parentName: Aero_animation_idle1:pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: Aero_animation_idle1:transform9
+      parentName: Aero_animation_idle1:pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform4
+      parentName: Aero_animation_idle1:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: Aero_animation_idle1:transform2
+      parentName: Aero_animation_idle1:pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform6
+      parentName: Aero_animation_idle1:pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform5
+      parentName: Aero_animation_idle1:pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform8
+      parentName: Aero_animation_idle1:pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform11
+      parentName: Aero_animation_idle1:pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle1:transform13
+      parentName: Aero_animation_idle1:pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform1
+      parentName: Aero_animation_idle:pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform10
+      parentName: Aero_animation_idle:pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: Aero_animation_idle:transform12
+      parentName: Aero_animation_idle:pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: Aero_animation_idle:transform3
+      parentName: Aero_animation_idle:pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: Aero_animation_idle:transform7
+      parentName: Aero_animation_idle:pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: Aero_animation_idle:transform9
+      parentName: Aero_animation_idle:pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform4
+      parentName: Aero_animation_idle:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: Aero_animation_idle:transform2
+      parentName: Aero_animation_idle:pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform6
+      parentName: Aero_animation_idle:pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform5
+      parentName: Aero_animation_idle:pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform8
+      parentName: Aero_animation_idle:pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform11
+      parentName: Aero_animation_idle:pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_idle:transform13
+      parentName: Aero_animation_idle:pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform1
+      parentName: Aero_animation_jumping:pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform10
+      parentName: Aero_animation_jumping:pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: Aero_animation_jumping:transform12
+      parentName: Aero_animation_jumping:pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: Aero_animation_jumping:transform3
+      parentName: Aero_animation_jumping:pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: Aero_animation_jumping:transform7
+      parentName: Aero_animation_jumping:pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: Aero_animation_jumping:transform9
+      parentName: Aero_animation_jumping:pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform4
+      parentName: Aero_animation_jumping:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: Aero_animation_jumping:transform2
+      parentName: Aero_animation_jumping:pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform6
+      parentName: Aero_animation_jumping:pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform5
+      parentName: Aero_animation_jumping:pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform8
+      parentName: Aero_animation_jumping:pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform11
+      parentName: Aero_animation_jumping:pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_jumping:transform13
+      parentName: Aero_animation_jumping:pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform1
+      parentName: Aero_animation_running:pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform10
+      parentName: Aero_animation_running:pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: Aero_animation_running:transform12
+      parentName: Aero_animation_running:pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: Aero_animation_running:transform3
+      parentName: Aero_animation_running:pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: Aero_animation_running:transform7
+      parentName: Aero_animation_running:pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: Aero_animation_running:transform9
+      parentName: Aero_animation_running:pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform4
+      parentName: Aero_animation_running:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: Aero_animation_running:transform2
+      parentName: Aero_animation_running:pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform6
+      parentName: Aero_animation_running:pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform5
+      parentName: Aero_animation_running:pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform8
+      parentName: Aero_animation_running:pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform11
+      parentName: Aero_animation_running:pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aero_animation_running:transform13
+      parentName: Aero_animation_running:pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCone1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.002082734, y: 0.03767693, z: -0.0059934915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: pCone1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.013430102, y: 0.011457948, z: -0.006952534}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform10
+      parentName: pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.03209564, z: -0.00076693564}
+      rotation: {x: 0, y: 0.052396327, z: -0, w: 0.99862635}
+      scale: {x: 1, y: 1, z: 1.2633898}
+    - name: transform12
+      parentName: pCube2
+      position: {x: -0, y: -0.03209564, z: 0.0005075046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.015904384, z: -0.0049393107}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1167332, y: 1.537783, z: 1.1167332}
+    - name: transform3
+      parentName: pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0043388973, y: 0.0036259, z: -0.0051925}
+      rotation: {x: 0, y: -0.1955937, z: -0, w: 0.98068506}
+      scale: {x: 0.91556495, y: 1.3926903, z: 1.0819331}
+    - name: transform7
+      parentName: pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0014160124, y: 0.007851557, z: -0.013572931}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 0.6666666}
+    - name: transform9
+      parentName: pCylinder3
+      position: {x: 0.0014160121, y: 0, z: -1.4901161e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere1
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0, y: 0.031000627, z: -0.0047327653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform4
+      parentName: pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere2
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0021273692, y: 0.030514805, z: -0.0016305734}
+      rotation: {x: -0.02931692, y: -0.07121383, z: 0.0020939934, w: 0.997028}
+      scale: {x: 0.040873136, y: 0.08779419, z: 0.040765427}
+    - name: transform2
+      parentName: pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere3
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0029186357, y: 0.035195634, z: -0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform6
+      parentName: pSphere3
+      position: {x: 0.0029186357, y: -0.035195634, z: 0.004755867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere4
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.020129368, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform5
+      parentName: pSphere4
+      position: {x: 0.0035000083, y: -0.020129368, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere5
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0035000083, y: 0.023565875, z: -0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform8
+      parentName: pSphere5
+      position: {x: 0.0035000083, y: -0.023565875, z: 0.004474547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere6
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.0031867367, y: 0.021807684, z: -0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform11
+      parentName: pSphere6
+      position: {x: 0.0031867367, y: -0.020456947, z: 0.005234757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere7
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.010143542, y: 0.021125099, z: -0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform13
+      parentName: pSphere7
+      position: {x: 0.010143542, y: -0.021125099, z: 0.018037776}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere8
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -0.030321302, y: 0.05191042, z: -0.06292084}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.4682539, y: 3.4682539, z: 3.4682539}
+    - name: rig
+      parentName: AeroPlayerRigWithAnimations(Clone)
+      position: {x: -4.656613e-10, y: 0.051708423, z: 0}
+      rotation: {x: 0, y: 0, z: 0.03195102, w: 0.9994895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint14
+      parentName: rig
+      position: {x: -0.015853534, y: -0.010699104, z: -4.1952843e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint15
+      parentName: joint14
+      position: {x: 0.00031092291, y: -0.020559644, z: -7.3840395e-18}
+      rotation: {x: 0.33677846, y: 0.33663693, z: 0.47969463, w: 0.73698634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint16
+      parentName: joint15
+      position: {x: -0.015064331, y: -0.0017598729, z: 0.0006720001}
+      rotation: {x: -0.037402984, y: 0.0968177, z: -0.5849168, w: 0.8044251}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint12
+      parentName: rig
+      position: {x: 0.0016448899, y: 0.020958198, z: 1.18143e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint3
+      parentName: joint12
+      position: {x: 0.0021078, y: 0.0258196, z: 1.45447e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint4
+      parentName: joint3
+      position: {x: -0.018972566, y: 1.3461454e-17, z: 2.3199376e-18}
+      rotation: {x: 0, y: 0, z: 0.047218222, w: 0.9988846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint5
+      parentName: joint4
+      position: {x: -0.02208824, y: -6.0203644e-18, z: 0.0017592191}
+      rotation: {x: -0.0046871537, y: -0.035429306, z: -0.054964237, w: 0.9978486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint6
+      parentName: joint5
+      position: {x: -0.014770522, y: -1.9108792e-17, z: 0.0020105361}
+      rotation: {x: -0.009389039, y: -0.028920501, z: 0.012294854, w: 0.99946207}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.009445989, y: 5.038506e-19, z: 0.0015079022}
+      rotation: {x: 0, y: -0, z: -0.13761045, w: 0.99048644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint8
+      parentName: joint3
+      position: {x: 0.018817777, y: -0.0024185444, z: -3.68757e-18}
+      rotation: {x: 0.99382937, y: -0.1109199, z: 6.7918853e-18, w: -6.08545e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint9
+      parentName: joint8
+      position: {x: 0.022088282, y: 0.000000069946736, z: -0.0015502878}
+      rotation: {x: -0.004622043, y: -0.035468932, z: -0.0549842, w: 0.9978464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint10
+      parentName: joint9
+      position: {x: 0.014770471, y: -0.0000000010254927, z: -0.0019730937}
+      rotation: {x: -0.010358495, y: -0.036842603, z: 0.011094628, w: 0.9992058}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint11
+      parentName: joint10
+      position: {x: 0.009446048, y: -0.00000001763899, z: -0.0016912232}
+      rotation: {x: 0, y: -0, z: -0.13761045, w: 0.99048644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2
+      parentName: joint3
+      position: {x: 0.00095171196, y: 0.0172421, z: 9.76856e-18}
+      rotation: {x: 0.7263312, y: 0.6873449, z: -4.2087737e-17, w: -4.4474957e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint1
+      parentName: joint2
+      position: {x: 0.0177201, y: 0.000306916, z: 3.7586302e-20}
+      rotation: {x: 0.9999625, y: 0.008659142, z: -5.3021957e-19, w: -6.1230046e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint17
+      parentName: rig
+      position: {x: 0.000164628, y: -0.0066870195, z: -0.01556082}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint21
+      parentName: joint17
+      position: {x: -0.000057474266, y: -0.0051767468, z: -0.018649917}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint22
+      parentName: joint21
+      position: {x: 0.0011318045, y: 0.020073997, z: -0.0082137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint23
+      parentName: joint22
+      position: {x: 0.0012679735, y: 0.024978915, z: -0.0136078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint24
+      parentName: joint23
+      position: {x: 0.0005436982, y: 0.0014393129, z: -0.023905499}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint25
+      parentName: joint24
+      position: {x: -0.00004935865, y: 0.0006174131, z: -0.026847998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint18
+      parentName: rig
+      position: {x: 0.014360292, y: -0.012632776, z: -1.7763568e-17}
+      rotation: {x: 0.9979583, y: -0.06386942, z: 3.9108735e-18, w: -6.1107326e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint19
+      parentName: joint18
+      position: {x: -0.0003109218, y: 0.020559656, z: 0}
+      rotation: {x: 0.33684006, y: 0.3367255, z: 0.47982183, w: 0.736835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint20
+      parentName: joint19
+      position: {x: 0.015064134, y: 0.0017598787, z: -0.0006719351}
+      rotation: {x: -0.037389334, y: 0.09666313, z: -0.5850575, w: 0.80434203}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

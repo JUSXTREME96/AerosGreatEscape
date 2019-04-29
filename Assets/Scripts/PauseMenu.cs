@@ -10,11 +10,15 @@ public class PauseMenu : MonoBehaviour {
 
     public GameObject pauseMenuUI;
 
+    
+
    // Input_Manager player;
 
     private void Start()
     {
-       // player = FindObjectOfType<Input_Manager>();
+        
+       
+      
     }
     // Update is called once per frame
     void Update () {
@@ -33,15 +37,17 @@ public class PauseMenu : MonoBehaviour {
    public void Continue()
     {
         pauseMenuUI.SetActive(false);
-        Time.timeScale = 1f;
-       // player.enabled = true;
+      
+        Time.timeScale = 1;
+       
         isPaused = false;
     }
-    void Pause()
+    public void Pause()
     {
         pauseMenuUI.SetActive(true);
+       
         Time.timeScale = 0;
-        //player.enabled = false;
+        
         isPaused = true;
       
     }

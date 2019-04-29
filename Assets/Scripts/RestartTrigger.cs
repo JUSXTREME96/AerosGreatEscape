@@ -6,6 +6,7 @@ public class RestartTrigger : MonoBehaviour
 {
     private Scene scene;
     public GameObject gameOver;
+    public GameObject music;
 
     void Start()
     {
@@ -17,9 +18,13 @@ public class RestartTrigger : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
+            gameOver.SetActive(true);
+            music.SetActive(false);
+            Time.timeScale = 0;
 
-            Application.LoadLevel(scene.name);
         }
     }
+   
+
 
 }

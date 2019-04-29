@@ -128,12 +128,15 @@ ModelImporter:
     2100016: lambert16
     2100018: lambert12
     2100020: lambert23
+    2100022: lambert25
     2300000: pCube3
     2300002: pSphere1
     3300000: pCube3
     3300002: pSphere1
     4300000: pSphere1
     4300002: pCube3
+    6400000: pCube3
+    6400002: pSphere1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -167,7 +170,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 4
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1

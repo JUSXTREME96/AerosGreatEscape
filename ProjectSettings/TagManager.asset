@@ -8,6 +8,14 @@ TagManager:
   - MatchBox
   - Win
   - Ladder
+  - Play
+  - Quit
+  - Elevator
+  - Coin
+  - SewerLight
+  - Acorn
+  - Slingshot
+  - Rubberband
   layers:
   - Default
   - TransparentFX

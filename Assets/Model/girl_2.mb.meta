@@ -146,6 +146,7 @@ ModelImporter:
     2300000: pPyramid2
     3300000: pPyramid2
     4300000: pPyramid2
+    6400000: pPyramid2
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -180,7 +181,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1

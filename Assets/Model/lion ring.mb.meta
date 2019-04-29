@@ -24,6 +24,9 @@ ModelImporter:
     4300000: pCylinder1
     4300002: pCylinder2
     4300004: pPipe1
+    6400000: pCylinder1
+    6400002: pCylinder2
+    6400004: pPipe1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -57,13 +60,13 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 4
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
